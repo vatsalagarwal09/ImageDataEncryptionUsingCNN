@@ -6,4 +6,4 @@ with the neural networks all together to hide an image inside another container 
 but is effective when convoluted with deep neural nets. Other steganography techniques involve hiding data efficiently, but in a uniform pattern which makes it less
 secure. This method targets both the challenges and make data hiding secure and non-uniform.
 
-#Check out Project Report for more detailed description
+Check out Project Report for more detailed description
